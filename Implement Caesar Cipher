@@ -30,7 +30,7 @@ if os.name == 'nt':
 	print("\n")    
 	print(fig)
 
-	fig2 = pyfiglet.figlet_format("By - MR.SIDDHESH", font = "digital")
+	fig2 = pyfiglet.figlet_format("By - MR.ADHARSH", font = "digital")
 	print(fig2)
 	print("\n")
 
@@ -39,7 +39,7 @@ else:
 	print("\n")    
 	print(fig)
 
-	fig2 = pyfiglet.figlet_format("By - MR.SIDDHESH", font = "standard")
+	fig2 = pyfiglet.figlet_format("By - MR.ADHARSH", font = "standard")
 	print(fig2)
 	print("\n")
 
